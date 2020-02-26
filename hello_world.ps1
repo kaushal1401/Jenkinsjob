@@ -1,2 +1,2 @@
 #sample code
-write-host "Welcome to my Training Session"
+write-host "Hello All ,Please Practice all the Lab Work"
